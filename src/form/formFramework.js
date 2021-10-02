@@ -25,3 +25,4 @@ export function validateForm(formControls) {
     }
     return isFormValid
 }
+
